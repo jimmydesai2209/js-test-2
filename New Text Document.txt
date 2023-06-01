@@ -1,0 +1,35 @@
+1. When we have to do single operation multiple time.
+2.var :- In var type we can re-declare and re-update value.
+         main differnce is about hoisting:-var supports hoisting (declaration goes to the top of scope of that function)
+  let:- in let we can redeclare variable but vale cannot be redeclare
+        and it dont support hoisting
+
+3.(i)primitive
+     symbol,undefine,null,boolean,string,array,number
+  (ii)special
+       object
+
+4. const render=[]
+   (...render)=>{
+                     sum=sum+render[i]
+                 };
+
+5. document.getELementByTagName(div);
+6.when we have multiple properties for single variable
+
+7. const object1={
+              name:janmejay
+           };
+
+    const object2=[...object1]
+
+8.const obj={
+              firstName:"james"
+              lastName:"bond"
+             }
+
+console.log("My name is "+obj.lastName+"."+obj.firstName+lastName
+
+
+
+   
